@@ -53,6 +53,7 @@ void LinearSearch() {
         cout << "\nNumber of comparison: " << ctr << endl;
 
         cout << "\nContinue search (y/n): ";
+        cin >> ch;
 
         
 
