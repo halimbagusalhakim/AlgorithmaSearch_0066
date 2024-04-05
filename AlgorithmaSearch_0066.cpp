@@ -30,6 +30,7 @@ void input() {
 void LinearSearch() {
     char ch;
     int ctr;
+    int item;
 }
 
 int main()
